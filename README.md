@@ -1,6 +1,6 @@
 # machine-learning-for-investing
-Python Machine Learning with SKLearn for Investing
+Python Machine Learning with SKLearn and TensorFlow for Investing
 
-Created using YouTube tutorial from sentdex. 
-Playlist can be found at:
-https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3
+Created using YouTube tutorial from Computer Science: https://www.youtube.com/watch?v=QIUxPv5PJOY
+
+Spinoff/updates to program coming soon!
